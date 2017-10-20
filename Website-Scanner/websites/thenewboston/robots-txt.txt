@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /account.php
+Sitemap: https://thenewboston.com/sitemap/sitemap.xml

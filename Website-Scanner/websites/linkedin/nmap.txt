@@ -1,0 +1,9 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-10-21 02:11 IST
+Nmap scan report for 108-174-10-10.fwd.linkedin.com (108.174.10.10)
+Host is up (0.020s latency).
+Not shown: 99 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.79 seconds
